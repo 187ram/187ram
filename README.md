@@ -37,7 +37,7 @@ I created Python scripts to extract and process data from Clover and Upserve POS
 
 ### 🌟 Skills
 - **Languages**: Python, Java, C, SQL
-- **Frameworks**: Django, Flask
+- **Frameworks**: Django, FastAPI, Flask
 - **Databases**: PostgreSQL, MySQL, Redis
 - **DevOps**: AWS, Docker
 - **Tools**: GIT/Github/Gitlab, RabbitMQ
